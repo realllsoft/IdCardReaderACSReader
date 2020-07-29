@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IdCardReader</string>
+    <string name="InsertCard">Insert Id Card!</string>
+</resources>
